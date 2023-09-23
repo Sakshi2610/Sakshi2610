@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning React JS
+I'm currently learning ReactJS
 
 
 ## 🌐 Socials:
