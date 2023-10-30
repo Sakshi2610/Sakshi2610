@@ -1,4 +1,5 @@
 # 💫 About Me:
+I am a Software Developer that enjoys coding to solve complex problems.
 I'm currently learning React JS
 
 
