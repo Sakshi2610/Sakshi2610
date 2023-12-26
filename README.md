@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer that enjoys coding to solve complex problems.<br><br>I'm currently learning React.
+I am a Software Developer that enjoys coding to solve complex problems.<br><br>I'm currently learning Django.
 
 
 ## 🌐 Socials:
