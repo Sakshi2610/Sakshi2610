@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Software Developer that enjoys coding to solve complex problems.<br><br>I'm currently learning Django.
-
+As a software developer, I have a strong passion for creating innovative solutions to complex problems using cutting-edge technologies. React JS is one such technology that has caught my attention recently, and I am currently expanding my skills in this area.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshirane/) 
