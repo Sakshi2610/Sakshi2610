@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about learning trending technologies.<br>Currently doing Software Testing Course
+Passionate about learning trending technologies.<br>Currently learning Automation Testing 
 
 
 ## 🌐 Socials:
